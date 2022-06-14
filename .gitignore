@@ -1,2 +1,4 @@
 # Ignore managed objects info
+#
 managed_object.py
+__pycache__
